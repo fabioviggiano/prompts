@@ -15,4 +15,4 @@ I prompt sono organizzati in cartelle per categoria, ad esempio:
 
 prompts/
 ├─ sport/
-│  ├─ Personal%20Trainer%20d'élite%3A%20Hybrid%20Athlete%20Programmer.md
+│  └─ Personal Trainer d'élite: Hybrid Athlete Programmer.md

@@ -16,3 +16,10 @@ I prompt sono organizzati in cartelle per categoria, ad esempio:
 prompts/
 ├─ sport/
 │  └─ Personal Trainer d'élite: Hybrid Athlete Programmer.md
+├─ creativita/
+│  ├─ Poesia sull'Universo.md
+│  └─ Storia fantasy breve.md
+├─ educazione/
+│  └─ Esercizi di matematica avanzata.md
+└─ produttivita/
+   └─ Lista delle priorità settimanale.md

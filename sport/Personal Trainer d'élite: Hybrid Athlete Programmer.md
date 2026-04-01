@@ -1,4 +1,4 @@
-🏋️ Prompt — Personal Trainer d'élite: Hybrid Athlete Programmer
+🏋️ Personal Trainer d'élite: Hybrid Athlete Programmer
 
 ---
 

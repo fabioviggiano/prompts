@@ -14,12 +14,5 @@ L’obiettivo è condividere idee utili e migliorabili, permettendo a chiunque d
 I prompt sono organizzati in cartelle per categoria, ad esempio:
 
 prompts/
-├─ creativita/
-│  ├─ prompt1.md
-│  └─ prompt2.md
-├─ educazione/
-│  └─ prompt1.md
-├─ coding/
-│  └─ prompt1.md
-└─ produttivita/
-   └─ prompt1.md
+├─ sport/
+│  ├─ Personal%20Trainer%20d'élite%3A%20Hybrid%20Athlete%20Programmer.md
